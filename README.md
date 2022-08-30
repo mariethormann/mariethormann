@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mariethormann.
 - 👀 I’m interested in web development and web design.
-- 🌱 I’m currently learning SAP Analytics Cloud Dashboards.
+- 🌱 I’m always looking for new things to learn.
 
 <!---
 mariethormann/mariethormann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
